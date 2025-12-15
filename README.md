@@ -101,16 +101,16 @@ This project demonstrates my ability to work with real-world data, clean and tra
 ## ▶️ How to Run This Project
 
 **Step 1: Clone the Repository**
-`git clone https://github.com/your-username/Student-Performance-EDA-Python.git`
+- `git clone https://github.com/your-username/Student-Performance-EDA-Python.git`
 
 **Step 2: Install Dependencies**
-`pip install -r requirements.txt`
+- `pip install -r requirements.txt`
 
 **Step 3: Open Jupyter Notebook**
-`jupyter notebook`
+- `jupyter notebook`
 
 **Step 4: Run the Notebook**
-`Run all cells from top to bottom to view the complete analysis and visualizations`
+- `Run all cells from top to bottom to view the complete analysis and visualizations`
 
 ---
 
