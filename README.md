@@ -8,17 +8,8 @@ This project demonstrates my ability to work with real-world data, clean and tra
 ## 📊 Dataset Overview
 
 - Dataset: `Expanded_data_with_more_features.csv`
-- Source: Kaggle (https://www.kaggle.com/datasets/desalegngeb/students-exam-score
-  
----
-
-## 🛠 Tools & Technologies Used
-
-- **Python**
-- **Jupyter Notebook**
-- **Pandas** – data manipulation & analysis
-- **NumPy** – numerical operations
-- **Matplotlib & Seaborn** – data visualization
+- Source: Kaggle – Students Exam Score Dataset
+- Link: https://www.kaggle.com/datasets/desalegngeb/students-exam-score
 
 ---
 
@@ -61,6 +52,16 @@ This project demonstrates my ability to work with real-world data, clean and tra
 
 ---
 
+## 📊 Sample Visualizations
+
+### Parent Education vs Student Scores
+![Parent Education's impact on student's scores Heatmap](images/Relationship between Parent's education and Student's score.jpg)
+
+### Score Distribution & Outliers
+![Score Outliers](images/Outlier Detection.jpg)
+
+---
+
 ## 📈 Key Insights
 
 - Students with parents holding Bachelor’s or Master’s degrees score significantly higher on average
@@ -71,25 +72,55 @@ This project demonstrates my ability to work with real-world data, clean and tra
 
 ---
 
-🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Data Visualization
+- Python Programming
+- Analytical Thinking
+- Insight Generation
+- Git & GitHub Documentation
 
-Data Cleaning & Transformation
+---
 
-Data Visualization
+## 🛠 Tools & Technologies Used
 
-Python Programming
+- **Python**
+- **Jupyter Notebook**
+- **Pandas** – data manipulation & analysis
+- **NumPy** – numerical operations
+- **Matplotlib & Seaborn** – data visualization
 
-Analytical Thinking
+---
 
-Insight Generation
+## ▶️ How to Run This Project
 
-Git & GitHub Documentation
+**Step 1: Clone the Repository**
+git clone https://github.com/your-username/Student-Performance-EDA-Python.git
 
-📌 Conclusion
+**Step 2: Install Dependencies**
+Make sure Python is installed, then run:
+- pip install -r requirements.txt
 
-This project highlights my ability to analyze real-world datasets using Python, apply structured EDA techniques, and communicate insights effectively through visualizations and documentation.
-It reflects my readiness for Data Analyst roles.
+**Step 3: Open Jupyter Notebook**
+Launch Jupyter Notebook using:
+- jupyter notebook
+
+**Step 4: Run the Notebook**
+Open StudentPerformanceAnalysis.ipynb
+- Run all cells from top to bottom to view the complete analysis and visualizations
+
+---
+
+## 📌 Conclusion
+
+This project highlights my **ability to analyze real-world datasets using Python**, apply structured EDA techniques, and communicate insights effectively through visualizations and documentation. It reflects my readiness for Data Analyst roles.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
 
 
