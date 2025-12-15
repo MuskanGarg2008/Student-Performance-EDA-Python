@@ -55,10 +55,14 @@ This project demonstrates my ability to work with real-world data, clean and tra
 ## 📊 Sample Visualizations
 
 ### Parent Education vs Student Scores
-![Parent Education's impact on student's scores Heatmap](images/Relationship between Parent's education and Student's score.jpg)
+<p align="center">
+  <img src="Python_Projects/images/Relationship between Parent's eduaction and Student's score.JPG" alt="Dashboard Preview" width="800">
+</p>
 
 ### Score Distribution & Outliers
-![Score Outliers](images/Outlier Detection.jpg)
+<p align="center">
+  <img src="Python_Projects/images/Outlier Detection.JPG" alt="Dashboard Preview" width="800">
+</p>
 
 ---
 
